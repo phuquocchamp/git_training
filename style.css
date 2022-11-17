@@ -1,8 +1,7 @@
-div{
-      margin: 0 40;
+.containter{
       display: flex;
-      background-color: rgb(177, 176, 176);
-      color: while;
+      background-color: rgb(49, 137, 15);
+      color: white;
       justify-content: center;
 }
 
